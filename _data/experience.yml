@@ -13,27 +13,27 @@
     •	Integrated Samsung’s Multi-display framework to Android Pie |
     •	Implemented API web-server using python, mongodb to integrate with HARMAN Gerrit, defects tracking tools |
     
-  company: HFN Inc 
-  link: nanoheal.com
-  job_title: Software Engineer
-  dates: June 2015 - October 2016
-  quote: >
-   Solved complex problems for android enterprise mobility platform
-  description: | # this will include new lines to allow paragraphs
-    •	Design and developed android enterprise mobility device management apps like Nanoheal Core, Nanoheal email, Nanoheal secure client, Nanoheal file browser to enforce restriction on android BYOD devices |
-    •	Implemented android schedulers for scheduling darts and services for each restrictions based on configurations like location, time etc. |
-    
-  company: Iriemo Technologies 
-  link: 
-  job_title: Software Engineer
-  dates: October 2013 - May 2015
-  quote: 
-   
-  description: | # this will include new lines to allow paragraphs
-    •	Developed few android apps like BubbleIt, Noobro, StaySecure |
-    •	Implemented Geofencing in StaySecure for location tracking and marking safe routes on maps |
-    •	Implemented video streaming app : Noobro similar to twitch dedicated for gamers |
-    •	Design and Implemented image editing features like drawing on canvas, speech bubbles , applying filters in BubbleIt app |
+ # company: HFN Inc 
+ # link: nanoheal.com
+ # job_title: Software Engineer
+ # dates: June 2015 - October 2016
+ # quote: >
+ #  Solved complex problems for android enterprise mobility platform
+ # description: | # this will include new lines to allow paragraphs
+ #   •	Design and developed android enterprise mobility device management apps like Nanoheal Core, Nanoheal email, Nanoheal secure client, Nanoheal file browser to enforce restriction on android BYOD devices |
+ #   •	Implemented android schedulers for scheduling darts and services for each restrictions based on configurations like location, time etc. |
+ #   
+ # company: Iriemo Technologies 
+ # link: 
+ # job_title: Software Engineer
+ # dates: October 2013 - May 2015
+ # quote: 
+ #  
+ # description: | # this will include new lines to allow paragraphs
+ #   •	Developed few android apps like BubbleIt, Noobro, StaySecure |
+ #   •	Implemented Geofencing in StaySecure for location tracking and marking safe routes on maps |
+ #   •	Implemented video streaming app : Noobro similar to twitch dedicated for gamers |
+ #   •	Design and Implemented image editing features like drawing on canvas, speech bubbles , applying filters in BubbleIt app | */
 
 
 
