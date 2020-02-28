@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Pankaj Kumar
-title: Senior Engineer 1
+title: Senior Software Engineer
 email: pankaj.gat@gmail.com
 website: pankajgangwar.github.io
 
@@ -12,19 +12,21 @@ website: pankajgangwar.github.io
 twitter_username: 
 github_username:  pankajgangwar
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: pankajgangwar
 # flickr_username: jekyll
-#instagram_username: chillwildlife
+# instagram_username: chillwildlife
 linkedin_username: pankaj-kumar-a747ab71
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Pankaj and I'm a senior engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Pankaj and I'm a Senior Software Engineer at HARMAN International. As an engineer, I have gained experience in conected-car 
+  technologies, automotive and enterprise mobility.
+  Apart from regular office work, I like solving complex algorithmic problems on competetive programming platforms . I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Android with Java, Python, C++</mark> and <mark>Eating Pizza</mark>
 
@@ -41,9 +43,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
-   - Competetive programming
+   - Competetive programming @LeetCode, HackerRank, CodeForces
+   - Content creator and mentor @LeetCode, world's leading online platform for learning programming and algorithms
    - Running Marathon
-   - Hiking
+   - Trekking
 
 # Footer
 footer_show_references: true
