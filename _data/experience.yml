@@ -6,12 +6,12 @@
   quote: >
    Solving Android automotive ecosystem problems for multiple Car manufacturers like Audi, FCA, Subaru
   description: | # this will include new lines to allow paragraphs
-    •	Designed, customized and implemented features on AOSP/HARMAN apps like Media, Navigation using MapBox, Dialer, HVAC, SystemUI, Radio using latest android architectural components and jetpack libraries |
-    •	Implemented Audi’s Ethernet communication protocol solution between difference linux namespaces on Audi Host Emulation framework using custom android automotive emulator providing simulation for multiple features like USB playback, Bluetooth stack, MTP stack etc. |
-    •	Implemented Emulated Vehicle HAL with CAN simulation using python scripts |
-    •	Implemented additional features on QEMU-based android automotive emulator on top of google AOSP car-emulator |
-    •	Integrated Samsung’s Multi-display framework to Android Pie |
-    •	Implemented API web-server using python, mongodb to integrate with HARMAN Gerrit, defects tracking tools |
+    Designed, customized and implemented features on AOSP/HARMAN apps like Media, Navigation using MapBox, Dialer, HVAC, SystemUI, Radio using latest android architectural components and jetpack libraries.
+    Implemented Audi’s Ethernet communication protocol solution between difference linux namespaces on Audi Host Emulation framework using custom android automotive emulator providing simulation for multiple features like USB playback, Bluetooth stack, MTP stack etc.
+    Implemented Emulated Vehicle HAL with CAN simulation using python scripts.
+    Implemented additional features on QEMU-based android automotive emulator on top of google AOSP car-emulator.
+    Integrated Samsung’s Multi-display framework to Android Pie
+    Implemented API web-server using python, mongodb to integrate with HARMAN Gerrit, defects tracking tools
     
 - layout: left
   company: HFN Inc 
@@ -21,8 +21,8 @@
   quote: >
    Solved complex problems for android enterprise mobility platform
   description: | # this will include new lines to allow paragraphs
-    •	Design and developed android enterprise mobility device management apps like Nanoheal Core, Nanoheal email, Nanoheal secure client, Nanoheal file browser to enforce restriction on android BYOD devices |
-    •	Implemented android schedulers for scheduling darts and services for each restrictions based on configurations like location, time etc. |
+    Design and developed android enterprise mobility device management apps like Nanoheal Core, Nanoheal email, Nanoheal secure client, Nanoheal file browser to enforce restriction on android BYOD devices.
+    Implemented android schedulers for scheduling darts and services for each restrictions based on configurations like location, time etc.
 
 - layout: left
   company: Iriemo Technologies 
@@ -33,6 +33,10 @@
    
   description: | # this will include new lines to allow paragraphs
     Developed few android apps like BubbleIt, Noobro, StaySecure
+    Implemented Geofencing in StaySecure for location tracking and marking safe routes on maps.
+    Implemented video streaming app : Noobro similar to twitch dedicated for gamers.
+    Design and Implemented image editing features like drawing on canvas, speech bubbles , applying filters in BubbleIt app.
+    Developed few android apps like BubbleIt, Noobro, StaySecure.
 
 
 
